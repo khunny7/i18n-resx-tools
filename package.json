@@ -1,0 +1,17 @@
+{
+  "name": "i18n-resx-tools",
+  "version": "0.0.1",
+  "description": "Modify resx from i18n key value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "resx": "^1.1.0",
+    "xml-stream": "^0.4.5",
+    "xmlparser": "^0.1.0"
+  }
+}
